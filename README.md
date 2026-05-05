@@ -25,8 +25,9 @@ At New Edge Orthopedics, we combine advanced technology with compassionate care 
 - MySQL  
 
 **Tools & Integrations:**  
-- Google Maps API
-- Tracking
+- Appointment Module
+- PDF Reports
+- Appointment Calendar
 
 
 ## 🔐 Code Access  
